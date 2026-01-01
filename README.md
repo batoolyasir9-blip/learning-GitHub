@@ -34,7 +34,9 @@ Upcoming lab work and small projects
 👩‍💻 About the Author
 
 Name: Batool yasir
+<br>
 Degree Program: Bachelor of Artificial Intelligence
+<br>
 Semester: First Semester
 
 I am a beginner in programming and currently learning the foundations of AI and software development.
